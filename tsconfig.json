@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "target": "es6",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": false,
+        "types": [
+            "node",
+            "jest"
+        ]
+    },
+    "include": [
+        "src",
+        "tests"
+    ]
+}
